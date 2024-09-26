@@ -49,5 +49,5 @@ body {
 }
 
 .swiper-wrapper {
-  @apply !translate-x-[calc(40%)] md:!translate-x-[calc(38%)] lg:!translate-x-[calc(40%)] xl:!translate-x-[calc(43%)]
+  @apply !translate-x-[calc(38%)] md:!translate-x-[calc(38%)] lg:!translate-x-[calc(40%)] xl:!translate-x-[calc(43%)]
 }
