@@ -1,6 +1,6 @@
-import ExploreCommunity from "@/components/templates/ExploreCommunity";
-import HeroSection from "@/components/templates/HeroSection";
-import SpecialMoment from "@/components/templates/SpecialMoment";
+import ExploreCommunity from "@/components/organisms/ExploreCommunity";
+import HeroSection from "@/components/organisms/HeroSection";
+import SpecialMoment from "@/components/organisms/SpecialMoment";
 
 export default function Home() {
   return (
