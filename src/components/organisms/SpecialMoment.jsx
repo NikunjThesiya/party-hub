@@ -57,7 +57,7 @@ const SpecialMoment = () => {
 						{SPECIAL_MOMENT.map((img, i) => (
 							<SwiperSlide
 								key={i}
-								className="flex items-center justify-center pt-28 lg:pt-20"
+								className="flex items-center justify-center pt-20 md:pt-28 lg:pt-20"
 							>
 								<Image
 									src={img}
